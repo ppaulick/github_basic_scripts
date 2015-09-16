@@ -1,4 +1,3 @@
-import
 import sys
 import os
 #open file to write
